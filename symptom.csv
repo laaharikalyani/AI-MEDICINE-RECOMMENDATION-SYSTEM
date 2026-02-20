@@ -1,0 +1,201 @@
+﻿,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4
+0,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+1,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+2,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+3,Fungal infection,itching, skin_rash, dischromic _patches,
+4,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+5,Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,
+6,Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,
+7,Fungal infection,itching, skin_rash, dischromic _patches,
+8,Fungal infection,itching, skin_rash, nodal_skin_eruptions,
+9,Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches
+10,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+11,Allergy, shivering, chills, watering_from_eyes,
+12,Allergy, continuous_sneezing, chills, watering_from_eyes,
+13,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+14,Allergy, continuous_sneezing, shivering, chills,
+15,Allergy, shivering, chills, watering_from_eyes,
+16,Allergy, continuous_sneezing, chills, watering_from_eyes,
+17,Allergy, continuous_sneezing, shivering, watering_from_eyes,
+18,Allergy, continuous_sneezing, shivering, chills,
+19,Allergy, continuous_sneezing, shivering, chills, watering_from_eyes
+40,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+41,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+42,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+43,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+44,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+45,Drug Reaction, skin_rash, stomach_pain, burning_micturition, spotting_ urination
+46,Drug Reaction,itching, stomach_pain, burning_micturition, spotting_ urination
+47,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
+48,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
+49,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
+60,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
+61,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
+62,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
+63,AIDS, muscle_wasting, patches_in_throat, extra_marital_contacts,
+64,AIDS, muscle_wasting, patches_in_throat, high_fever,
+65,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
+66,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
+67,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
+68,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
+69,AIDS, muscle_wasting, patches_in_throat, high_fever,
+70,Diabetes , fatigue, weight_loss, restlessness, lethargy
+71,Diabetes , fatigue, weight_loss, restlessness, lethargy
+72,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level
+73,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level
+74,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level
+75,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level
+76,Diabetes , fatigue, weight_loss, restlessness, lethargy
+77,Diabetes , fatigue, weight_loss, restlessness, lethargy
+78,Diabetes , fatigue, weight_loss, restlessness, lethargy
+79,Diabetes , fatigue, weight_loss, restlessness, lethargy
+90,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
+91,Bronchial Asthma, cough, high_fever, breathlessness, family_history
+92,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
+93,Bronchial Asthma, fatigue, cough, breathlessness, family_history
+94,Bronchial Asthma, fatigue, cough, high_fever, family_history
+95,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
+96,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
+97,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
+98,Bronchial Asthma, cough, high_fever, breathlessness, family_history
+99,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
+100,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+101,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
+102,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
+103,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+104,Hypertension , headache, chest_pain, dizziness, lack_of_concentration
+105,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+106,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+107,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
+108,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
+109,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+110,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+111,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
+112,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
+113,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger
+114,Migraine, acidity, indigestion, headache, excessive_hunger
+115,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+116,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+117,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+118,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+119,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+140,Jaundice,itching, vomiting, fatigue, weight_loss
+141,Jaundice,itching, vomiting, fatigue, weight_loss
+142,Jaundice, vomiting, fatigue, weight_loss, high_fever
+143,Jaundice,itching, fatigue, weight_loss, high_fever
+144,Jaundice,itching, vomiting, weight_loss, high_fever
+145,Jaundice,itching, vomiting, fatigue, high_fever
+146,Jaundice,itching, vomiting, fatigue, weight_loss
+147,Jaundice,itching, vomiting, fatigue, weight_loss
+148,Jaundice,itching, vomiting, fatigue, weight_loss
+149,Jaundice,itching, vomiting, fatigue, weight_loss
+150,Malaria, chills, vomiting, high_fever, sweating
+151,Malaria, chills, vomiting, high_fever, sweating
+152,Malaria, chills, vomiting, high_fever, sweating
+153,Malaria, vomiting, high_fever, sweating, headache
+154,Malaria, chills, high_fever, sweating, headache
+155,Malaria, chills, vomiting, sweating, headache
+156,Malaria, chills, vomiting, high_fever, headache
+157,Malaria, chills, vomiting, high_fever, sweating
+158,Malaria, chills, vomiting, high_fever, sweating
+159,Malaria, chills, vomiting, high_fever, sweating
+160,Chicken pox,itching, skin_rash, fatigue, lethargy
+161,Chicken pox, skin_rash, fatigue, lethargy, high_fever
+162,Chicken pox,itching, fatigue, lethargy, high_fever
+163,Chicken pox,itching, skin_rash, lethargy, high_fever
+164,Chicken pox,itching, skin_rash, fatigue, high_fever
+165,Chicken pox,itching, skin_rash, fatigue, lethargy
+166,Chicken pox,itching, skin_rash, fatigue, lethargy
+167,Chicken pox,itching, skin_rash, fatigue, lethargy
+168,Chicken pox,itching, skin_rash, fatigue, lethargy
+169,Chicken pox,itching, skin_rash, fatigue, lethargy
+170,Dengue, skin_rash, chills, joint_pain, vomiting
+171,Dengue, skin_rash, chills, joint_pain, vomiting
+172,Dengue, skin_rash, chills, joint_pain, vomiting
+173,Dengue, skin_rash, chills, joint_pain, vomiting
+174,Dengue, chills, joint_pain, vomiting, fatigue
+175,Dengue, skin_rash, joint_pain, vomiting, fatigue
+176,Dengue, skin_rash, chills, vomiting, fatigue
+177,Dengue, skin_rash, chills, joint_pain, fatigue
+178,Dengue, skin_rash, chills, joint_pain, vomiting
+179,Dengue, skin_rash, chills, joint_pain, vomiting
+180,Typhoid, chills, vomiting, fatigue, high_fever
+181,Typhoid, chills, vomiting, fatigue, high_fever
+182,Typhoid, chills, vomiting, fatigue, high_fever
+183,Typhoid, chills, vomiting, fatigue, high_fever
+184,Typhoid, chills, vomiting, fatigue, high_fever
+185,Typhoid, chills, vomiting, fatigue, high_fever
+186,Typhoid, chills, vomiting, fatigue, high_fever
+187,Typhoid, chills, vomiting, fatigue, high_fever
+188,Typhoid, chills, vomiting, fatigue, high_fever
+189,Typhoid, chills, fatigue, high_fever, headache
+250,Tuberculosis, chills, vomiting, fatigue, weight_loss
+251,Tuberculosis, chills, vomiting, fatigue, weight_loss
+252,Tuberculosis, vomiting, fatigue, weight_loss, cough
+253,Tuberculosis, chills, fatigue, weight_loss, cough
+254,Tuberculosis, chills, vomiting, weight_loss, cough
+255,Tuberculosis, chills, vomiting, fatigue, cough
+256,Tuberculosis, chills, vomiting, fatigue, weight_loss
+257,Tuberculosis, chills, vomiting, fatigue, weight_loss
+258,Tuberculosis, chills, vomiting, fatigue, weight_loss
+259,Tuberculosis, chills, vomiting, fatigue, weight_loss
+260,Common Cold, continuous_sneezing, chills, fatigue, cough
+261,Common Cold, continuous_sneezing, chills, fatigue, cough
+262,Common Cold, chills, fatigue, cough, high_fever
+263,Common Cold, continuous_sneezing, fatigue, cough, high_fever
+264,Common Cold, continuous_sneezing, chills, cough, high_fever
+265,Common Cold, continuous_sneezing, chills, fatigue, high_fever
+266,Common Cold, continuous_sneezing, chills, fatigue, cough
+267,Common Cold, continuous_sneezing, chills, fatigue, cough
+268,Common Cold, continuous_sneezing, chills, fatigue, cough
+269,Common Cold, continuous_sneezing, chills, fatigue, cough
+270,Pneumonia, chills, fatigue, cough, high_fever
+271,Pneumonia, chills, fatigue, cough, high_fever
+272,Pneumonia, chills, fatigue, cough, high_fever
+273,Pneumonia, fatigue, cough, high_fever, breathlessness
+274,Pneumonia, chills, cough, high_fever, breathlessness
+275,Pneumonia, chills, fatigue, high_fever, breathlessness
+276,Pneumonia, chills, fatigue, cough, breathlessness
+277,Pneumonia, chills, fatigue, cough, high_fever
+278,Pneumonia, chills, fatigue, cough, high_fever
+279,Pneumonia, chills, fatigue, cough, high_fever
+290,Heart attack, vomiting, breathlessness, sweating, chest_pain
+291,Heart attack, vomiting, breathlessness, sweating, chest_pain
+292,Heart attack, breathlessness, sweating, chest_pain,
+293,Heart attack, vomiting, sweating, chest_pain,
+294,Heart attack, vomiting, breathlessness, chest_pain,
+295,Heart attack, vomiting, breathlessness, sweating,
+296,Heart attack, vomiting, breathlessness, sweating, chest_pain
+297,Heart attack, breathlessness, sweating, chest_pain,
+298,Heart attack, vomiting, sweating, chest_pain,
+299,Heart attack, vomiting, breathlessness, chest_pain,
+360,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
+361,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
+362,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance
+363,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance
+364,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance
+365,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+366,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
+367,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
+368,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
+369,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+370,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+371,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+372,Acne, pus_filled_pimples, blackheads, scurring,
+373,Acne, skin_rash, blackheads, scurring,
+374,Acne, skin_rash, pus_filled_pimples, scurring,
+375,Acne, skin_rash, pus_filled_pimples, blackheads,
+376,Acne, skin_rash, pus_filled_pimples, blackheads, scurring
+377,Acne, skin_rash, pus_filled_pimples, blackheads,
+378,Acne, skin_rash, pus_filled_pimples, scurring,
+379,Acne, skin_rash, blackheads, scurring,
+380,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+381,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+382,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+383,Urinary tract infection, burning_micturition, foul_smell_of urine, continuous_feel_of_urine,
+384,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+385,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine,
+386,Urinary tract infection, burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine
+387,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
+388,Urinary tract infection, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine,
+389,Urinary tract infection, burning_micturition, bladder_discomfort, continuous_feel_of_urine,
